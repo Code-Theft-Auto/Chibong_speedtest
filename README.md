@@ -17,5 +17,5 @@ Internet Speed test app. Open the application and click the start button to run 
 
 * Speed test app
 
-#Thank you for downloading
+# Thank you for downloading
 
