@@ -10,7 +10,7 @@ Internet Speed test app. Open the application and click the start button to run 
 ## Dependencies
 
 * Python
-* tkinter and speedtest-cli (can be installed by entering the following command in the cmd
+* tkinter and speedtest-cli (can be installed by entering the following command in the cmd):
 ```py
 pip install tk
 ```
